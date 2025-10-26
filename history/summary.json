@@ -4,19 +4,19 @@
     "url": "https://backend.vala.arianelabs.dev/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.arianelabs.dev.ico",
     "slug": "vala-backend-health",
-    "status": "down",
-    "uptime": "81.55%",
-    "uptimeDay": "81.55%",
-    "uptimeWeek": "81.55%",
-    "uptimeMonth": "81.55%",
-    "uptimeYear": "81.55%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "78.59%",
+    "uptimeDay": "78.59%",
+    "uptimeWeek": "78.59%",
+    "uptimeMonth": "78.59%",
+    "uptimeYear": "78.59%",
+    "time": 443,
+    "timeDay": 443,
+    "timeWeek": 443,
+    "timeMonth": 443,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2025-10-26": 52
+      "2025-10-26": 63
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://backend.vala.arianelabs.dev/api/v1/health/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.arianelabs.dev.ico",
     "slug": "vala-backend-readiness",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "time": 49,
+    "timeDay": 49,
+    "timeWeek": 49,
+    "timeMonth": 49,
+    "timeYear": 49,
     "dailyMinutesDown": {
-      "2025-10-26": 82
+      "2025-10-26": 93
     }
   }
 ]
