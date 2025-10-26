@@ -4,19 +4,19 @@
     "url": "https://backend.vala.media/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "vala-backend-health",
-    "status": "down",
-    "uptime": "39.64%",
-    "uptimeDay": "39.64%",
-    "uptimeWeek": "39.64%",
-    "uptimeMonth": "39.64%",
-    "uptimeYear": "39.64%",
-    "time": 436,
-    "timeDay": 436,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "status": "up",
+    "uptime": "38.06%",
+    "uptimeDay": "38.06%",
+    "uptimeWeek": "38.06%",
+    "uptimeMonth": "38.06%",
+    "uptimeYear": "38.06%",
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-10-26": 52
+      "2025-10-26": 56
     }
   }
 ]
