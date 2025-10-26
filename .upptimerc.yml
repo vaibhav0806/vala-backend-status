@@ -1,36 +1,46 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vaibhav0806
+repo: vala-backend-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Vala Backend Health
+    url: https://backend.vala.media/health
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+    
+  - name: Vala Backend Liveness
+    url: https://backend.vala.media/health/liveness
+    expectedStatusCodes:
+      - 200
+      
+  - name: Vala Backend Readiness
+    url: https://backend.vala.media/health/readiness
+    expectedStatusCodes:
+      - 200
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Vala Status
+  logoUrl: https://cdn.prod.website-files.com/66d3a0873f16fc3af8dd7d3c/679a24fa2c532b406d361f2c_VALA.svg
+  introTitle: "**Vala** Backend Status"
+  introMessage: Real-time monitoring of Vala backend services
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  theme: dark  # or 'light'
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+notifications:
+  - type: slack
+    webhook-url: $SLACK_WEBHOOK_URL
+
+# Upptime configuration
+workflowSchedule:
+  uptime: "*/5 * * * *"  # Check every 5 minutes
+  responseTime: "0 23 * * *"  # Update graphs daily
+  graphs: "0 0 * * *"  # Generate graphs daily
+  
+assignees:
+  - vaibhav0806
+
+user-agent: upptime
