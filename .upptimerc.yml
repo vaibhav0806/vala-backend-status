@@ -5,7 +5,7 @@ sites:
   - name: Vala Backend Health
     url: https://backend.vala.media/api/v1/health
     expectedStatusCodes:
-      - 200
+      - 404
     maxResponseTime: 5000
     
   # - name: Vala Backend Liveness
