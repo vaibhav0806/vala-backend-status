@@ -1,7 +1,7 @@
 url: https://backend.vala.media/api/v1/health
-status: up
+status: down
 code: 200
-responseTime: 485
-lastUpdated: 2025-10-26T05:42:32.400Z
+responseTime: 396
+lastUpdated: 2025-10-26T05:52:34.684Z
 startTime: 2025-10-26T04:39:07.348Z
 generator: Upptime <https://github.com/upptime/upptime>
