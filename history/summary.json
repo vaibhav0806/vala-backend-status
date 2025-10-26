@@ -1,62 +1,22 @@
 [
   {
     "name": "Vala Backend Health",
-    "url": "https://backend.vala.media/health",
+    "url": "https://backend.vala.media/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "vala-backend-health",
-    "status": "down",
-    "uptime": "0.14%",
-    "uptimeDay": "0.14%",
-    "uptimeWeek": "0.14%",
-    "uptimeMonth": "0.14%",
-    "uptimeYear": "0.14%",
+    "status": "up",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 427,
     "timeDay": 427,
     "timeWeek": 427,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2025-10-26": 10
-    }
-  },
-  {
-    "name": "Vala Backend Liveness",
-    "url": "https://backend.vala.media/health/liveness",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
-    "slug": "vala-backend-liveness",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
-    "dailyMinutesDown": {
-      "2025-10-26": 10
-    }
-  },
-  {
-    "name": "Vala Backend Readiness",
-    "url": "https://backend.vala.media/health/readiness",
-    "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
-    "slug": "vala-backend-readiness",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 72,
-    "timeDay": 72,
-    "timeWeek": 72,
-    "timeMonth": 72,
-    "timeYear": 72,
-    "dailyMinutesDown": {
-      "2025-10-26": 10
+      "2025-10-26": 52
     }
   }
 ]
