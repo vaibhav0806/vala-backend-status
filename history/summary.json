@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "vala-backend-health",
     "status": "up",
-    "uptime": "53.26%",
-    "uptimeDay": "53.26%",
-    "uptimeWeek": "53.26%",
-    "uptimeMonth": "53.26%",
-    "uptimeYear": "53.26%",
+    "uptime": "57.63%",
+    "uptimeDay": "57.63%",
+    "uptimeWeek": "57.63%",
+    "uptimeMonth": "57.63%",
+    "uptimeYear": "57.63%",
     "time": 473,
     "timeDay": 473,
     "timeWeek": 473,
     "timeMonth": 473,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2025-10-26": 57
+      "2025-10-26": 52
     }
   }
 ]
