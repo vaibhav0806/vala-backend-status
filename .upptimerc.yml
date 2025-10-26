@@ -3,20 +3,20 @@ repo: vala-backend-status
 
 sites:
   - name: Vala Backend Health
-    url: https://backend.vala.media/health
+    url: https://backend.vala.media/api/v1/health
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
     
-  - name: Vala Backend Liveness
-    url: https://backend.vala.media/health/liveness
-    expectedStatusCodes:
-      - 200
+  # - name: Vala Backend Liveness
+  #   url: https://backend.vala.media/health/liveness
+  #   expectedStatusCodes:
+  #     - 200
       
-  - name: Vala Backend Readiness
-    url: https://backend.vala.media/health/readiness
-    expectedStatusCodes:
-      - 200
+  # - name: Vala Backend Readiness
+  #   url: https://backend.vala.media/health/readiness
+  #   expectedStatusCodes:
+  #     - 200
 
 status-website:
   name: Vala Backend Status 
