@@ -31,10 +31,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: dark  # or 'light'
 
-notifications:
-  - type: slack
-    webhook-url: $SLACK_WEBHOOK_URL
-
 # Upptime configuration
 workflowSchedule:
   uptime: "*/5 * * * *"  # Check every 5 minutes
