@@ -19,6 +19,7 @@ sites:
   #     - 200
 
 status-website:
+  baseUrl: /vala-backend-status
   name: Vala Backend Status 
   logoUrl: https://cdn.prod.website-files.com/66d3a0873f16fc3af8dd7d3c/679a24fa2c532b406d361f2c_VALA.svg
   introTitle: "**Vala** Backend Status"
