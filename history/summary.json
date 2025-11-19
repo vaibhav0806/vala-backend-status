@@ -4,19 +4,19 @@
     "url": "https://backend.vala.media/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "overall-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 388,
-    "timeWeek": 391,
-    "timeMonth": 406,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 407,
+    "timeDay": 405,
+    "timeWeek": 397,
+    "timeMonth": 407,
+    "timeYear": 407,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 39
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://backend.vala.media/api/v1/health/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "liveness",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 52,
-    "timeDay": 56,
-    "timeWeek": 65,
-    "timeMonth": 52,
-    "timeYear": 52,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 53,
+    "timeDay": 65,
+    "timeWeek": 67,
+    "timeMonth": 53,
+    "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 39
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://backend.vala.media/api/v1/health/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "readiness",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 57,
-    "timeWeek": 68,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.26%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 55,
+    "timeDay": 67,
+    "timeWeek": 70,
+    "timeMonth": 55,
+    "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-11-19": 0
+      "2025-11-19": 39
     }
   }
 ]
