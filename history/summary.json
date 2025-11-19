@@ -4,53 +4,59 @@
     "url": "https://backend.vala.media/api/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "overall-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 206,
-    "timeWeek": 366,
-    "timeMonth": 401,
-    "timeYear": 401,
-    "dailyMinutesDown": {}
+    "time": 406,
+    "timeDay": 388,
+    "timeWeek": 391,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "Liveness",
     "url": "https://backend.vala.media/api/v1/health/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "liveness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 51,
-    "timeDay": 37,
-    "timeWeek": 63,
-    "timeMonth": 51,
-    "timeYear": 51,
-    "dailyMinutesDown": {}
+    "time": 52,
+    "timeDay": 56,
+    "timeWeek": 65,
+    "timeMonth": 52,
+    "timeYear": 52,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   },
   {
     "name": "Readiness",
     "url": "https://backend.vala.media/api/v1/health/readiness",
     "icon": "https://icons.duckduckgo.com/ip3/backend.vala.media.ico",
     "slug": "readiness",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 53,
-    "timeDay": 39,
-    "timeWeek": 67,
-    "timeMonth": 53,
-    "timeYear": 53,
-    "dailyMinutesDown": {}
+    "time": 54,
+    "timeDay": 57,
+    "timeWeek": 68,
+    "timeMonth": 54,
+    "timeYear": 54,
+    "dailyMinutesDown": {
+      "2025-11-19": 0
+    }
   }
 ]
