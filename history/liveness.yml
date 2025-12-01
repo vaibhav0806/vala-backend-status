@@ -1,7 +1,7 @@
 url: https://backend.vala.media/api/v1/health/liveness
 status: up
 code: 200
-responseTime: 85
-lastUpdated: 2025-11-30T23:12:37.607Z
+responseTime: 52
+lastUpdated: 2025-12-01T23:14:00.454Z
 startTime: 2025-10-26T14:33:08.821Z
 generator: Upptime <https://github.com/upptime/upptime>
