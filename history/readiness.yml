@@ -1,7 +1,7 @@
 url: https://backend.vala.media/api/v1/health/readiness
 status: up
 code: 200
-responseTime: 44
-lastUpdated: 2026-01-22T23:15:40.326Z
+responseTime: 34
+lastUpdated: 2026-01-23T23:15:32.442Z
 startTime: 2025-10-26T14:33:09.195Z
 generator: Upptime <https://github.com/upptime/upptime>
